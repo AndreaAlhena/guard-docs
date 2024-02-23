@@ -1,0 +1,15 @@
+{
+	"/": [],
+	"/directives": [],
+	"/directives/multi": [],
+	"/validators": [],
+	"/validators/multi": [],
+	"/validators/string": [],
+	"/validators/string/alpha-dash": [],
+	"/validators/string/alpha-num": [],
+	"/validators/string/alpha": [],
+	"/validators/string/ascii": [],
+	"/validators/string/lowercase": [],
+	"/validators/string/uppercase": [],
+	"/validators/string/url": []
+}
