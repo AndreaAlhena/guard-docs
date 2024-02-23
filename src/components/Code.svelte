@@ -13,16 +13,12 @@
     onMount(() => {
         hljs.highlightElement(codeBlockEl);
     });
-
-
 </script>
 
 <div class="row">
     <div class="col-lg-12">
         <pre bind:this={codeBlockEl}>
-            <code  class="language-{language}">
-                <slot></slot>
-            </code>
+            <code  class="language-{language}"><slot></slot></code>
         </pre>
     </div>
 </div>

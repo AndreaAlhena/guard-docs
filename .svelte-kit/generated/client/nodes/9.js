@@ -1,1 +1,1 @@
-export { default as component } from "../../../../src/routes/validators/string/alpha-dash/+page.svelte";
+export { default as component } from "../../../../src/routes/validators/multi/doesnt-start-with/+page.svelte";

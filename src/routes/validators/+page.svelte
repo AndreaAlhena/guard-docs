@@ -1,5 +1,9 @@
 <h1>Validators</h1>
+<hr class="my-0 mb-4">
 <div class="row">
+    <div class="col-12 mb-6">
+        nGuard is made of a comprehensive set of <strong>Validators</strong> to be used with <strong>Reactive Driven Forms</strong>. Validators are separated into categories, as each validator is capable of handling one or more data type.
+    </div>
     <div class="col-6">
         <div class="card card-background card-background-after-none align-items-start mt-4 mb-5">
             <div class="full-background" style="background-image: url('../assets/img/header-blue-purple.jpg')"></div>

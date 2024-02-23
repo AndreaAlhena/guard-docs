@@ -15,7 +15,14 @@ export const nodes = [
 	() => import('./nodes/11'),
 	() => import('./nodes/12'),
 	() => import('./nodes/13'),
-	() => import('./nodes/14')
+	() => import('./nodes/14'),
+	() => import('./nodes/15'),
+	() => import('./nodes/16'),
+	() => import('./nodes/17'),
+	() => import('./nodes/18'),
+	() => import('./nodes/19'),
+	() => import('./nodes/20'),
+	() => import('./nodes/21')
 ];
 
 export const server_loads = [];
@@ -26,14 +33,21 @@ export const dictionary = {
 		"/directives/multi": [4],
 		"/validators": [5],
 		"/validators/multi": [6],
-		"/validators/string": [7],
-		"/validators/string/alpha-dash": [9],
-		"/validators/string/alpha-num": [10],
-		"/validators/string/alpha": [8],
-		"/validators/string/ascii": [11],
-		"/validators/string/lowercase": [12],
-		"/validators/string/uppercase": [13],
-		"/validators/string/url": [14]
+		"/validators/multi/different": [7],
+		"/validators/multi/doesnt-end-with": [8],
+		"/validators/multi/doesnt-start-with": [9],
+		"/validators/multi/ends-with": [10],
+		"/validators/multi/required-if": [11],
+		"/validators/multi/same": [12],
+		"/validators/multi/starts-with": [13],
+		"/validators/string": [14],
+		"/validators/string/alpha-dash": [16],
+		"/validators/string/alpha-num": [17],
+		"/validators/string/alpha": [15],
+		"/validators/string/ascii": [18],
+		"/validators/string/lowercase": [19],
+		"/validators/string/uppercase": [20],
+		"/validators/string/url": [21]
 	};
 
 export const hooks = {
