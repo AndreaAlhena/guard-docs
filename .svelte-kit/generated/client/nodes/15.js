@@ -1,1 +1,1 @@
-export { default as component } from "../../../../src/routes/validators/multi/doesnt-end-with/+page.svelte";
+export { default as component } from "../../../../src/routes/directives/string/ascii/+page.svelte";

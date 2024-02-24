@@ -28,6 +28,6 @@
 <Code language="typescript">
     new FormControl('', [NguardValidators.String.alpha(true)]);
 </Code>
-<h2 ckass="mt-4">Errors</h2>
+<h2 class="mt-4">Errors</h2>
 <hr class="mt-0 mb-4">
 <p><Badge>alpha</Badge> error is returned if the attribute doesn't meet the validator requirements.</p>

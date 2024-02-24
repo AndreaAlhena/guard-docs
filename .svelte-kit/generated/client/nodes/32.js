@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/validators/string/ascii/+page.svelte";

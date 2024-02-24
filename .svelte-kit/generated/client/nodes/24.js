@@ -1,1 +1,1 @@
-export { default as component } from "../../../../src/routes/validators/string/alpha-num/+page.svelte";
+export { default as component } from "../../../../src/routes/validators/multi/ends-with/+page.svelte";

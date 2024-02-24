@@ -23,11 +23,10 @@
                 <p>NGUARD is a comprehensive set of <strong>Validators for Angular</strong>, to be used both with Template and Reactive Driven Forms</p>
                 <p>Is available as an Angular Library via npm:</p>
                 <Code language={'bash'}>
+                    // with npm
                     npm install nguard
+                    // or with yarn
                     yarn add nguard
-                </Code>
-                <p>or</p>
-                <Code language={'bash'}>
                 </Code>
             </div>
         </div>
