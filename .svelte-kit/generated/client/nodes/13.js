@@ -1,1 +1,1 @@
-export { default as component } from "../../../../src/routes/validators/multi/starts-with/+page.svelte";
+export { default as component } from "../../../../src/routes/validators/multi/+page.svelte";
